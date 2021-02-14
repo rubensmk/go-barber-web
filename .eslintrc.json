@@ -49,7 +49,8 @@
     ],
     "import/prefer-default-export": "off",
     "camelcase": "off",
-    "@typescript-eslint/ban-types": "off"
+    "@typescript-eslint/ban-types": "off",
+    "import/no-duplicates": "off"
   },
   "settings": {
     "import/resolver": {
